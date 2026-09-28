@@ -7,3 +7,4 @@ idade_2 <- c(10, 20, 30)
 
 
 idade_2
+idade
